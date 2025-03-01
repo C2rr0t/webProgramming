@@ -1,0 +1,44 @@
+#header {
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-top: 0px;
+	padding: 10px;
+	margin-bottom: 50px;
+	text-align: center;
+	border: 1px solid #5cd3e6;
+	background-color: #5cd3e6;
+	color: #ffffff;
+}
+
+table {
+	margin: 2px auto;
+	border: #dbdbdb;
+	width: 300px;
+	height: 300px;
+}
+
+div {
+	margin: 50px;
+	text-align: center;
+}
+
+button {
+	text-align: center;
+	margin: 2px auto;
+	width: 150px;
+	height: 40px;
+	border-color: #5cd3e6;
+	background-color: #5cd3e6;
+	color: #ffffff;
+	margin-bottom: 0px;
+}
+
+#abc {
+	margin-top: 10px;
+	text-align: center;
+}
+
+a {
+	color: #5cd3e6;
+	text-decoration-line: none;
+}
