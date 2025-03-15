@@ -1,0 +1,63 @@
+<DOCTYPE html>
+<script>
+var tot = 0; //global
+function buttonClick(){
+		tot = tot - document.getElementById("age").innerText;
+
+	var name = prompt("이름을 입력하세요", "");
+	document.getElementById("name").innerText = name;
+
+	var age = prompt("나이를 입력하세요", "");
+	document.getElementById("age").innerText = age;
+
+	tot = tot + parseInt(age)
+	document.getElementById("total").innerText = tot;
+
+	tot2 = tot/2
+	document.getElementById("tot2").innerText = tot2;
+}
+
+function buttonClick2(){
+	tot = tot - document.getElementById("age1").innerText;
+
+	var name = prompt("이름을 입력하세요", "");
+	document.getElementById("name1").innerText = name;
+
+	var age = prompt("나이를 입력하세요", "");
+	document.getElementById("age1").innerText = age;
+
+	tot = tot + parseInt(age)
+	document.getElementById("total").innerText = tot;
+
+	tot2 = tot/2
+	document.getElementById("tot2").innerText = tot2;
+}
+
+
+</script>
+
+<!DOCTYPE html>
+<html>
+	<body>
+		<a>#숙제</a>
+		<br>
+		<button id = "button" onclick="buttonClick()">입력 버튼</button>
+		<br>
+		<a>이름: </a><a id = "name">0</a>
+		<br>
+		<a>나이: </a><a id = "age">0</a>
+		<br>
+
+		<br>
+		<button id = "button" onclick="buttonClick2()">입력 버튼</button>
+		<br>
+		<a>이름: </a><a id = "name1">0</a>
+		<br>
+		<a>나이: </a><a id = "age1">0</a>
+		<br>
+
+		<a>두 사람의 나이의 합은: </a><a id = "total">0</a><a>  평균은: </a><a id = "tot2">0</a>
+
+	</body>
+	<script>sample();</script>
+</html>
