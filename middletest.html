@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="middletest.css">
+<html>
+<head><title>지극히 주관적인 공부 TOP 3 유튜브 영상 리스트</title></head>
+<body>
+
+<script>
+function shingo() {
+	prompt("신고하기", "");
+	alert("신고가 접수되었습니다")
+}
+
+var a1 = 0;
+var a2 = 0;
+var a3 = 0;
+
+var b1 = 0;
+var b2 = 0;
+var b3 = 0;
+
+</script>
+
+<h3>지극히 주관적인 공부 TOP 3 유튜브 영상 리스트</h3>
+<hr>
+    <table border="1">
+	<th>TOP 1</th>
+	<th>TOP 2</th>
+	<th>TOP 3</th>
+	<tr>
+	    <td>삼각함수송</td>
+	    <td>수학</td>
+	    <td>코딩</td>
+	</tr>
+	<tr>
+	     <td><a href = "https://www.youtube.com/watch?v=bTs0DcMxDT8" target = "삼각함수송" > 유튜브 영상 보러 가기 </a></td>
+	    <td><a href = "https://www.youtube.com/watch?v=B1J6Ou4q8vE&list=PL7z8SQeih5Af9B2DshZul4KvTLI74NkUQ" target = "수학" > 유튜브 영상 보러 가기 </a></td>
+	    <td><a href = "https://www.youtube.com/watch?v=EFmxPMdBqmU&list=PL7z8SQeih5Af9B2DshZul4KvTLI74NkUQ&index=4" target = "코딩" > 유튜브 영상 보러 가기 </a></td>
+	</tr>
+	<tr>
+	    <td><button onclick="work()">좋아요</button><b id='a1'>0</b><button onclick="wo1()">싫어요</button><b id='b1'>0</b></td>
+	    <td><button onclick="work2()">좋아요</button><b id='a2'>0</b><button onclick="wo2()">싫어요</button><b id='b2'>0</b></td>
+	    <td><button onclick="work3()">좋아요</button><b id='a3'>0</b><button onclick="wo3()">싫어요</button><b id='b3'>0</b></td>
+
+	</tr>
+	<tr>
+	    <td><button onclick="shingo()">신고하기</button></td>
+	    <td><button onclick="shingo()">신고하기</button></td>
+	    <td><button onclick="shingo()">신고하기</button></td>
+	</tr>
+    </table>
+</body>
+<script>
+	function work() {
+		a1 = a1+1
+		document.getElementById('a1').innerText= a1;
+	}
+	function work2() {
+		a2 = a2+1
+		document.getElementById('a2').innerText= a2;
+	}
+	function work3() {
+		a3 = a3+1
+		document.getElementById('a3').innerText= a3;
+	}
+
+	function wo1() {
+		b1 = b1+1
+		document.getElementById('b1').innerText= b1;
+	}
+	function wo2() {
+		b2 = b2+1
+		document.getElementById('b2').innerText= b2;
+	}
+	function wo3() {
+		b3 = b3+1
+		document.getElementById('b3').innerText= b3;
+	}
+
+
+
+
+</script>
