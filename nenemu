@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>네네에무 교류회 안내</title>
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      background: #F9FCFF;
+      color: #333;
+      padding: 2rem;
+      line-height: 1.7;
+    }
+    h2 {
+      background: linear-gradient(to right, #33DD99, #FF66BB);
+      color: white;
+      padding: 0.5rem 1rem;
+      border-radius: 10px;
+      box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+    }
+    h3 {
+      color: #3399FF;
+      margin-top: 2rem;
+    }
+    strong {
+      color: #33DD99;
+    }
+    .blue-label {
+      color: #3399FF;
+      font-weight: bold;
+    }
+    .nenecolor {
+      color: #33DD99;
+      font-weight: bold;
+    }
+    .emucolor {
+      color: #FF66BB;
+      font-weight: bold;
+    }
+    section {
+      background: #FFFFFF;
+      border: 1px solid #D8F0FF;
+      border-radius: 12px;
+      padding: 1.5rem;
+      margin-bottom: 2rem;
+      box-shadow: 0 2px 8px rgba(51,153,255,0.1);
+    }
+    ul {
+      list-style: square;
+      padding-left: 1.5rem;
+    }
+  </style>
+</head>
+<body>
+  <h2>행사 개요</h2>
+  <section>
+    <p><span class="blue-label">행사명:</span> 미정 (추후 공개 예정)</p>
+    <p><span class="blue-label">일시:</span> 2026년 2월 7일 (토) 예정</p>
+    <p><span class="blue-label">장소:</span> 홍대 (최종 장소 추후 공지)</p>
+    <p><span class="blue-label">참가 대상:</span> 2026년 기준 만 15세 이상 <strong>생물학적 여성</strong>만 참가 가능</p>
+    <p><span class="blue-label">참가비:</span><br>
+      현장 참가: 40,000원
+      위탁 참가: 20,000원
+    </p>
+    <p><span class="blue-label">회지 제출 기준:</span> 1인 1권 이상 <strong>직접 제작한 신간 회지</strong> 지참 필수<br>
+    <p><span class="blue-label">분량 기준:</span> 글/만화 상관없이 최소 8p 이상</p>
+  </section>
+
+  <h3>행사 목적</h3>
+  <section>
+    본 행사는 <span class="blue-label">『프로젝트 세카이: 컬러풀 스테이지! feat. 하츠네 미쿠』</span>의 커플링 <span class="nenecolor">네네</span><span class="emucolor">에무</span> (<span class="nenecolor">쿠사나기 네네</span> × <span class="emucolor">오오토리 에무</span>)를 주제로 한 2차 창작 교류회입니다.<br>
+    참가자들이 자율 제작한 회지를 현장에서 교환하는 것이 주된 목적이며, 소규모 이벤트와 네네에무 관련 교류 및 소통도 포함됩니다.<br>
+    타커플링, 리버스, 타장르 참여는 불가하며, 네네에무 중심의 창작물로만 참여 가능합니다.
+  </section>
+
+  <h3>참가 방식</h3>
+  <section>
+    <strong>현장 참가</strong>
+    <ul>
+      <li>참가비: <span class="emucolor">40,000원</span></li> 
+      <li>현장에서 직접 회지 교환 및 전프레 수령</li>
+      <li>한정 이벤트 참여 가능 (원고왕, 발표, 시상 등)</li>
+      <li>참가 인원 제한: 최대 15명 내외</li>
+    </ul>
+    <strong>위탁 참가</strong>
+    <ul>
+      <li>참가비: <span class="emucolor">20,000원</span></li>
+      <li>회지를 주최 측에 택배 발송 → 현장 배포</li>
+      <li>행사 종료 후 전프레 및 타 참가자 회지 발송</li>
+      <li>인원 제한 없음</li>
+    </ul>
+  </section>
+
+  <h3>주요 일정</h3>
+  <section>
+    <ul>
+      <li>수요조사 실시</li>
+      <li>협력진 선정 및 공개</li>
+      <li>전프레 구성 공개</li>
+      <li>참가자 모집 시작</li>
+      <li>프린트매니아 등 제작소 공지</li>
+      <li>현장 이벤트 공지</li>
+      <li><strong>2026.02.07</strong> 교류회 진행</li>
+    </ul>
+  </section>
+
+  <h3>회지 제출 기준</h3>
+  <section>
+    <ul>
+      <li>행사장에서 <strong>최초 공개되는 신간</strong>이어야 함</li>
+      <li>1인 1권 이상 회지 지참 (없을 시 참가 불가)</li>
+      <li>행사 인원 수만큼 인쇄해 당일 지참</li>
+      <li>광공/약공/기괴 등 호불호가 갈리는 표현 시 <strong>첫 장에 주의문구 필수</strong></li>
+      <li>수위 제한: 전체 연령가 ~ <strong>만 15세 이하 수위</strong>까지</li>
+    </ul>
+  </section>
+
+  <h3>전프레 구성 (일부)</h3>
+  <section>
+    <ul>
+      <li>이름표</li>
+      <li>엽서</li>
+      <li>포토카드</li>
+      <li>떡메모지</li>
+      <li>인생네컷</li>
+      <li>폴라로이드</li>
+      <li>스티커</li>
+      <li>펠트 북마크</li>
+      <li>탁상용 미니 달력</li>
+    </ul>
+  </section>
+
+  <h3>현장 이벤트</h3>
+  <section>
+    <ul>
+      <li><strong>원고왕 시상식</strong> (글/만화 부문, 사전 분량 기준)</li>
+      <li><span class="emucolor">자유 발표</span> (네네에무 관련 주제, 자율 제작 발표자료)</li>
+      <li><strong>자기소개 시간</strong></li>
+      <li><span class="emucolor">장거리 참가자 시상</span> (교통편 예약 내역 기준)</li>
+    </ul>
+  </section>
+
+  <h3>기타 안내 사항</h3>
+  <section>
+    <ul>
+      <li><strong>공개 계정 + CP 활동 확인 가능한 트위터 계정 필수</strong></li>
+      <li>잠금 계정/활동 미확인 계정/타CP 활동 계정 불가</li>
+      <li>입금 안내 메일 발송 후 <strong>48시간 내 미입금 시 자동 취소</strong></li>
+      <li>참가 확정 후 <strong>환불 불가</strong> (양도는 트위터 DM)</li>
+      <li><strong>실물 신분증 필참</strong> (미지참 시 입장 제한)</li>
+      <li>분실/사고 등 주최 측 책임 없음</li>
+      <li>촬영 시 타인의 얼굴/정보 포함 주의</li>
+      <li>반응 좋을 경우 <strong>2회차 개최 고려</strong></li>
+    </ul>
+  </section>
+
+  <h3>주최 관련</h3>
+  <section>
+    <ul>
+      <li>전체 진행 및 총괄: 주최자가 직접 담당</li>
+      <li>행사 종료 후 피드백 수집 예정</li>
+    </ul>
+  </section>
+
+  <h3>협력작 공개</h3>
+  <section>
+    <ul>
+      <li>공식 트위터 계정 통해 순차 공개 예정</li>
+      <li>협력진 전용 굿즈: 자수 수건 또는 핸드타올 (확정 예정)</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p style="text-align: right; font-size: 0.9rem; color: #999;">공지 최종 갱신일: 2025.06.13</p>
+  </footer>
+</body>
+</html>
